@@ -24,5 +24,8 @@
     "tabWidth": 2,
     "singleQuote": true,
     "arrowParens": "avoid"
+  },
+  "dependencies": {
+    "bottleneck": "^2.19.5"
   }
 }
